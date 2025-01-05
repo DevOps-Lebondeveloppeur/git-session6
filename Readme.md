@@ -1,1 +1,1 @@
-## Session 6 DevOps
+# Session 6 DevOps
